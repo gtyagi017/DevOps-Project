@@ -1,8 +1,9 @@
-<h1>This is my first DevOps Project</h1>
+<h1>This is my first DevOps Project</h1/>
 <form action="action_page.php" method="post">
-  <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
-  </div>
+  #<div class="imgcontainer">
+   # <img src="img_avatar2.png" alt="Avatar" class="avatar">
+ 
+  #</div>
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
@@ -17,8 +18,8 @@
     </label>
   </div>
 
-  <div class="container" style="background-color:#f1f1f1">
-    <button type="button" class="cancelbtn">Cancel</button>
-    <span class="psw">Forgot <a href="#">password?</a></span>
-  </div>
+  #<div class="container" style="background-color:#f1f1f1">
+   # <button type="button" class="cancelbtn">Cancel</button>
+    #<span class="psw">Forgot <a href="#">password?</a></span>
+  #</div>
 </form>
